@@ -1,0 +1,7 @@
+buid/
+easy_http.egg-info/
+easy_http/.idea/
+easy_http/build/
+easy_http/__pycache__/
+setup.py
+pyprojext.toml
